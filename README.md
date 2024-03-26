@@ -14,7 +14,7 @@
 ### Links
 
 - solution URL - [daem-social-profile-links-solution](https://github.com/DAEM007/social-links-profile)
-- Live Site URL: [daem-social-profile-links-live](https://vercel.com/daem007/social-links-profile/C2tf1GHoged8Bsnnkoza5LKdTN1b)
+- Live Site URL: [daem-social-profile-links-live](https://social-links-profile-sable.vercel.app/)
 
 ### Built with
 
