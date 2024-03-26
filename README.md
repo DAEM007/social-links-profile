@@ -13,8 +13,8 @@
 
 ### Links
 
-- solution URL - [daem-blog-preview-card-solution](https://github.com/DAEM007/blog-preview-card)
-- Live Site URL: [daem-blog-preview-card-live](https://blog-preview-card-daem007.vercel.app/)
+- solution URL - [daem-social-profile-links-solution](https://github.com/DAEM007/social-links-profile)
+- Live Site URL: [daem-social-profile-links-live](https://vercel.com/daem007/social-links-profile/C2tf1GHoged8Bsnnkoza5LKdTN1b)
 
 ### Built with
 
