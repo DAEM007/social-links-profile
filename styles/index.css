@@ -90,6 +90,7 @@ body {
 
 .author-link {
   background: var(--Grey);
+  color: var(--White);
   width: 100%;
   padding: 0.7rem;
   border-radius: 0.5rem;
@@ -104,6 +105,10 @@ body {
 .author-links .author-link a {
   text-decoration: none;
   color: var(--White);
+}
+
+.author-links .author-link a:hover {
+  color: var(--Off-Black);
 }
 
 .attribution {
